@@ -1,1 +1,1 @@
-# kodi
+# kodi addon
